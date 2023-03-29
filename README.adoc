@@ -2,7 +2,7 @@
 
 == Amberg Technologies Online Manuals
 
-* <</AmbergRail/AmbergRail.adock#, Amberg Rail>>
+* <</AmbergRail/AmbergRail.adoc#, Amberg Rail>>
 * <</AmbergTunnel/AmbergTunnel.adoc#, Amberg Tunnel>>
 
 image::images/csm_tsu_3e014d2ea8.jpg[link=/AmbergRail/AmbergRail.html]
