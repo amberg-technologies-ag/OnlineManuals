@@ -11,5 +11,5 @@ How to create support data:
 . Store the *.zip file
 . Upload *.zip file to some online storage and send link to Amberg Tunnel support.
 
-image::Navigator\images\image-3.png[]
-image::Navigator\images\image-4.png[]
+image::OnlineManuals/AmbergTunnel/Inspection/images/image-3.png[]
+image::OnlineManuals/AmbergTunnel/Inspection/images/image-4.png[]

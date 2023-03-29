@@ -4,33 +4,33 @@ This is a step by step workflow how to create inspection project in Amberg Tunne
 
 . Create new project using New project wizard.
 +
-image::images\image_3.png[]
+image::OnlineManuals/AmbergTunnel/Inspection/images/image_3.png[]
 
 . Import or create horizontal and vertical alignment
 +
-image::images\axis.png[]
+image::OnlineManuals/AmbergTunnel/Inspection/images/axis.png[]
 
 . Import or create Theoretical profile and Theoretical 
 +
-image::images\profile.png[]
+image::OnlineManuals/AmbergTunnel/Inspection/images/profile.png[]
 
 . Define blocks. Sector model is optional.
 +
-image::images\blocks.png[]
+image::OnlineManuals/AmbergTunnel/Inspection/images/blocks.png[]
 
 . Import or create inspection catalog
 +
-image::images\catalog.png[]
+image::OnlineManuals/AmbergTunnel/Inspection/images/catalog.png[]
 
 . Import images as a background of inspection. Optionally import drawings from previous inspections.
 +
-image::images\measurements.png[]
+image::OnlineManuals/AmbergTunnel/Inspection/images/measurements.png[]
 
 . In File -> Options enter your User name and Password for Tunnel cloud.
 +
-image::images\48890-image-9.png[]
+image::OnlineManuals/AmbergTunnel/Inspection/images/48890-image-9.png[]
 
 . Export project to the cloud.
 +
-image::images\45d41-image-10.png[]
+image::OnlineManuals/AmbergTunnel/Inspection/images/45d41-image-10.png[]
 
