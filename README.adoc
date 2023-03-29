@@ -2,10 +2,10 @@
 
 == Amberg Technologies Online Manuals
 
-* <</AmbergRail/AmbergRail.adoc#, Amberg Rail>>
-* <</AmbergTunnel/AmbergTunnel.adoc#, Amberg Tunnel>>
+* <</OnlineManuals/AmbergRail/AmbergRail.adoc#, Amberg Rail>>
+* <</OnlineManuals/AmbergTunnel/AmbergTunnel.adoc#, Amberg Tunnel>>
 
-image::images/csm_tsu_3e014d2ea8.jpg[link=/AmbergRail/AmbergRail.html]
-image::images/csm_KV_Rail_Sevilla_Santa_Justa_Medium_17400b62e1.jpg[link=/AmbergTunnel/AmbergTunnel.html]
+image::images/csm_tsu_3e014d2ea8.jpg[link=/OnlineManuals/AmbergRail/AmbergRail.html]
+image::images/csm_KV_Rail_Sevilla_Santa_Justa_Medium_17400b62e1.jpg[link=/OnlineManuals/AmbergTunnel/AmbergTunnel.html]
 
 
