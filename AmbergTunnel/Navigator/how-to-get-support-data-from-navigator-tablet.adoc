@@ -1,4 +1,4 @@
-= How to get Support data from Navigator Tablet
+== How to get Support data from Navigator Tablet
 
 Support data is a great source of information what happend in the Amberg Navigator. Whenever there is an issue with the data, workflow, connectivity etc. it is usefull to collect support data and send it together with the issue description.
 
