@@ -1,7 +1,6 @@
 = Amberg Tunnel
 
-:toc!:
+:toc:
 
 include::Inspection/how-to-set-up-inspection-project-in-amberg-tunnel.adoc[]
 include::Navigator/how-to-get-support-data-from-navigator-tablet.adoc[]
-

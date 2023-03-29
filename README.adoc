@@ -1,6 +1,6 @@
 :toc!:
 
-== Amberg Technologies Online Manuals
+= Amberg Technologies Online Manuals
 
 * <</OnlineManuals/AmbergRail/AmbergRail.adoc#, Amberg Rail>>
 * <</OnlineManuals/AmbergTunnel/AmbergTunnel.adoc#, Amberg Tunnel>>
