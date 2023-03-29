@@ -1,11 +1,13 @@
 = Amberg Tunnel
 
 :experimental:
-:data-uri:
 :toc: left
 :sectnums:
 :sectlinks:
 :icons: font
 
+//== How to set up inspection project in Amberg tunnel
 include::Inspection/how-to-set-up-inspection-project-in-amberg-tunnel.adoc[]
+
+//== How to get Support data from Navigator Tablet
 include::Navigator/how-to-get-support-data-from-navigator-tablet.adoc[]
