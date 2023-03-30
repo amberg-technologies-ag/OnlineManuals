@@ -1,4 +1,4 @@
-== How to use TGR
+=== How to use TGR
 
 Just do it!
 

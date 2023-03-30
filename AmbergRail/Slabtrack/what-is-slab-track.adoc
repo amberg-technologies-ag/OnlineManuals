@@ -1,0 +1,6 @@
+=== What is Slab Track?
+
+This is the user manual of the *Amberg Rail - Slab track* module. It contains all information about slab track measurement, processing and analysis.
+This user manual builds on the manual Amberg Rail - Base. So all general information about the software, e.g. options definition, definition of configuration sets, creation of projects, definition of design data sets, etc., can be found in the user manual Amberg Rail - Base.
+
+image::/OnlineManuals/AmbergTunnel/images/slabtrack3.png[]
