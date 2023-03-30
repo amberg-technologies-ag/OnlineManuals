@@ -1,3 +1,0 @@
-== This is another test file
-
-NOTE: This exercise is a continuation from the previous lesson(s).

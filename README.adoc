@@ -1,12 +1,9 @@
-Amberg Technologies Online Manuals
+= Amberg Technologies
+
+== Online Manuals
 
 |===
 a|image::images/csm_tsu_3e014d2ea8.jpg[link=/OnlineManuals/AmbergRail/AmbergRail.html, 460]
 <</OnlineManuals/AmbergRail/AmbergRail.adoc#, Amberg Rail>> a|image::images/csm_KV_Rail_Sevilla_Santa_Justa_Medium_17400b62e1.jpg[link=/OnlineManuals/AmbergTunnel/AmbergTunnel.html, 460] 
 <</OnlineManuals/AmbergTunnel/AmbergTunnel.adoc#, Amberg Tunnel>>
 |===
-
-:toc: left
-
-include::AmbergRail/AmbergRail.adoc[]
-include::AmbergTunnel/AmbergTunnel.adoc[]
