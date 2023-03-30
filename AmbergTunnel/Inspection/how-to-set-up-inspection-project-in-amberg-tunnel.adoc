@@ -1,4 +1,4 @@
-== How to set up inspection project in Amberg tunnel
+=== How to set up inspection project in Amberg tunnel
 
 This is a step by step workflow how to create inspection project in Amberg Tunnel
 

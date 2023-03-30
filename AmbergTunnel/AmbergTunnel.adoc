@@ -6,9 +6,11 @@
 
 = Amberg Tunnel
 
-//== How to set up inspection project in Amberg tunnel
+== Inspection
+
 include::Inspection/how-to-set-up-inspection-project-in-amberg-tunnel.adoc[]
 
-//== How to get Support data from Navigator Tablet
+== Navigator
+
 include::Navigator/how-to-get-support-data-from-navigator-tablet.adoc[]
 
