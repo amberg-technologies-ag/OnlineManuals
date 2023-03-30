@@ -1,6 +1,10 @@
-= Amberg Rail
-
+:experimental:
 :toc: left
+:sectnums:
+:sectlinks:
+:icons: font
+
+= Amberg Rail
 
 include::TGR/how-to-use-tgr.adoc[]
 
