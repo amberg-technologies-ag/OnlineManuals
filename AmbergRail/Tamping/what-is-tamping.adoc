@@ -1,4 +1,0 @@
-=== What is Tamping?
-
-Amberg Rail - Tamping contains the module *Amberg Rail Tamping Basic* and *Amberg Rail Tamping Plus*
-Amberg Rail Tamping Basic allows to post-process track data measured with the GRP System FX. It supports the processing of track data (GRP 1000, GRP 3000) and control point data (GRP 3000 only). Some report can be generated on control point basis and on basis of lateral objects.
