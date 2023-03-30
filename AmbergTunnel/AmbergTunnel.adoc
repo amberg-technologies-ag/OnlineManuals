@@ -7,7 +7,9 @@
 :icons: font
 
 //== How to set up inspection project in Amberg tunnel
-include::Inspection/how-to-set-up-inspection-project-in-amberg-tunnel.adoc[]
+include::AmbergTunnel/Inspection/how-to-set-up-inspection-project-in-amberg-tunnel.adoc[]
 
 //== How to get Support data from Navigator Tablet
-include::Navigator/how-to-get-support-data-from-navigator-tablet.adoc[]
+include::OnlineManuals/AmbergTunnel/Navigator/how-to-get-support-data-from-navigator-tablet.adoc[]
+
+include::test.adoc[]
