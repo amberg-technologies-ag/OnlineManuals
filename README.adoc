@@ -1,4 +1,4 @@
-= Amberg Technologies Online Manuals
+Amberg Technologies Online Manuals
 
 |===
 a|image::images/csm_tsu_3e014d2ea8.jpg[link=/OnlineManuals/AmbergRail/AmbergRail.html, 460]

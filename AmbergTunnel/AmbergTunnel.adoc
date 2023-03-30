@@ -1,4 +1,4 @@
-= Amberg Tunnel
+//= Amberg Tunnel
 
 :experimental:
 :toc: left
@@ -7,9 +7,11 @@
 :icons: font
 
 //== How to set up inspection project in Amberg tunnel
-include::AmbergTunnel/Inspection/how-to-set-up-inspection-project-in-amberg-tunnel.adoc[]
+include::Inspection/how-to-set-up-inspection-project-in-amberg-tunnel.adoc[]
 
 //== How to get Support data from Navigator Tablet
-include::OnlineManuals/AmbergTunnel/Navigator/how-to-get-support-data-from-navigator-tablet.adoc[]
+include::Navigator/how-to-get-support-data-from-navigator-tablet.adoc[]
 
 include::test.adoc[]
+
+== Test title
